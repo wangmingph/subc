@@ -1,0 +1,6 @@
+#自设屏蔽列表
+
+DOMAIN-SUFFIX,hadesleta.com
+
+#分割线, 便于识别, 放在最后
+DOMAIN-SUFFIX,-----split-line-----.com

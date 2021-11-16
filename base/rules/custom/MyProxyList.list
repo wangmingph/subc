@@ -1,0 +1,10 @@
+#自设代理列表
+
+#ip.skk.moe相关
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,youtube.com
+
+#Module_merlinclash.asp页面 IP地址检查
+DOMAIN-SUFFIX,ipify.org
